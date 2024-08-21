@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @htoh702
 - 👀 I’m interested in backend and database
-- 🌱 I’m currently learning django and cspring
+- 🌱 I’m currently learning Cloud Services
 
 --------------------------------------------
 - 💞️ I’m looking to collaborate on ...
