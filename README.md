@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white"/></a>
 
 #### Collaboration
 
@@ -63,7 +64,7 @@
 
 #### Frontend
 <div>   
-  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=Flutter&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Flutter-F7931E?style=flat-square&logo=Flutter&logoColor=white"/></a>
 </div>
 </div>
 
